@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./A_digital_graphic_banner_showcases_Romain_Chardon_.png" alt="Romain Chardon - Full Stack Web Developer" />
+  <img src="./bgimg.png" alt="Romain Chardon - Full Stack Web Developer" />
 </p>
 
 # 👋 Hello, moi c’est Romain Chardon
