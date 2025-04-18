@@ -46,8 +46,3 @@ Je suis ouvert à des missions ponctuelles ou longues, en **remote** ou en **col
 | 🐠 Aquarium Manager  | Application de gestion d’aquarium (mobile + web) | React Native, React, Symfony |
 
 ---
-
-## 📈 Statistiques GitHub
-
-![Romain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainChardon&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainChardon&layout=compact&theme=github_dark)
