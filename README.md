@@ -2,7 +2,7 @@
 
 Développeur web full stack, spécialisé en **Symfony**, **PHP**, **React.js** et **JavaScript**, je conçois des applications web performantes, évolutives et centrées sur les besoins métiers.
 
-Au fil de mes expériences, j’ai participé à la création et à l’évolution de projets variés : **CRM SaaS**, outils de **gestion immobilière**, portails d’administration, ou encore interfaces web interactives avec **API REST**.
+Au fil de mes expériences, j’ai participé à la création et à l’évolution de projets variés : CRM, outils de gestion immobilière, outil de gestion de congés, et bien d'autres. 
 
 🌐 Mon portfolio : [www.romainchardon.fr](https://www.romainchardon.fr)
 
