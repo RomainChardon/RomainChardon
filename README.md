@@ -21,7 +21,7 @@ J’accorde une grande importance à la **clarté**, à la **qualité du code** 
 
 ## 🚀 Disponibilité
 
-Je suis ouvert à des missions ponctuelles ou longues, en **remote** ou en **collaboration hybride**.
+Je suis ouvert à des missions ponctuelles ou longues, en **remote** ou en **hybride**.
 
 ---
 
