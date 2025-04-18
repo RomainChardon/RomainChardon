@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./bgimg.png" alt="Romain Chardon - Full Stack Web Developer" />
-</p>
-
 # 👋 Hello, moi c’est Romain Chardon
 
 Développeur web full stack, spécialisé en **Symfony**, **PHP**, **React.js** et **JavaScript**, je conçois des applications web performantes, évolutives et centrées sur les besoins métiers.
